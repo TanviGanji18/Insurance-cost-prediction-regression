@@ -140,6 +140,9 @@ Run the Streamlit application:
 ```
 streamlit run app.py
 ```
+## Live App
+
+Streamlit Deployment:https://tanviganji18-insurance-cost-prediction-regression-app-swteqt.streamlit.app/
 
 ---
 
